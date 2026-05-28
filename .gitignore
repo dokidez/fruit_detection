@@ -1,0 +1,21 @@
+# Virtual env
+CModel/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (VERY IMPORTANT)
+Fruit_Train/
+Fruit_dataset/
+
+# Model files (optional but recommended for GitHub)
+*.keras
+*.h5
+*.pkl
+*.pt
